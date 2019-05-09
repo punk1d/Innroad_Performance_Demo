@@ -1,0 +1,26 @@
+{
+  "name": "innroad_performance_demo",
+  "version": "1.0.0",
+  "description": "Performance test demo for Innroad app",
+  "main": "conf.js",
+  "dependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punk1d/Innroad_Performance_Demo.git"
+  },
+  "keywords": [
+    "Innroad"
+  ],
+  "author": "Abel Daniel",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/punk1d/Innroad_Performance_Demo/issues"
+  },
+  "homepage": "https://github.com/punk1d/Innroad_Performance_Demo#readme"
+}
